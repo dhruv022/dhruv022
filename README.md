@@ -56,9 +56,10 @@ Check out my live portfolio here:
 ## ✨ Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DhruvSharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhruvsharma)  
+[![Instagram](https://img.shields.io/badge/Instagram-@dhruv_xhrma-purple?style=flat-square&logo=instagram)](https://www.instagram.com/dhruv_xhrma)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://animated-portfolio-starter-five.vercel.app/)  
 
 ---
 
-Made with ❤️ using **React, Node.js, and Vite**
+Made with ❤️ using **React, Node.js, and Vite** by **DHRUV SHARMA**
 
