@@ -85,7 +85,7 @@ dhruv = {
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
- 
+
 ---
 
 ## 💼 Professional Experience
@@ -108,7 +108,7 @@ dhruv = {
     </td>
     <td>
       <strong>Talentelgia</strong> — Software Intern<br/>
-      📍 India &nbsp;|&nbsp; 🗓️ 8 Months<br/>
+      📍 India &nbsp;|&nbsp; 🗓️ 2 Months<br/>
       <em>Web Development · Performance Optimization · Reduced server response time by 15% &amp; page load by 30%</em>
     </td>
   </tr>
@@ -170,23 +170,26 @@ dhruv = {
 
 ## 📊 GitHub Stats
 
+<!-- These cards auto-update via the GitHub Action in .github/workflows/profile-summary-cards.yml -->
+<!-- After running the action, they serve from your repo — no caching issues -->
+
 <div align="center">
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruv022&theme=tokyonight"/>
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruv022&theme=tokyonight"/>
+<img height="170em" src="https://raw.githubusercontent.com/dhruv022/dhruv022/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 
 </div>
 
 <div align="center">
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruv022&theme=tokyonight"/>
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruv022&theme=tokyonight&utcOffset=5.5"/>
+<img height="170em" src="https://raw.githubusercontent.com/dhruv022/dhruv022/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+<img height="170em" src="https://raw.githubusercontent.com/dhruv022/dhruv022/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv022&theme=tokyonight" width="95%"/>
+<img height="170em" src="https://raw.githubusercontent.com/dhruv022/dhruv022/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+<img height="170em" src="https://raw.githubusercontent.com/dhruv022/dhruv022/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 
 </div>
 
