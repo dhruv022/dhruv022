@@ -1,0 +1,20 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fez6k/github-profile-summary-cards@release
+        with:
+          USERNAME: dhruv022
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.50
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
