@@ -108,7 +108,7 @@ dhruv = {
     </td>
     <td>
       <strong>Talentelgia</strong> — Software Intern<br/>
-      📍 India &nbsp;|&nbsp; 🗓️ 2 Months<br/>
+      📍 India &nbsp;|&nbsp; 🗓️ 8 Months<br/>
       <em>Web Development · Performance Optimization · Reduced server response time by 15% &amp; page load by 30%</em>
     </td>
   </tr>
@@ -172,8 +172,21 @@ dhruv = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dhruv022&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90D9&text_color=c9d1d9"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruv022&theme=tokyonight"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruv022&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruv022&theme=tokyonight"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruv022&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv022&theme=tokyonight" width="95%"/>
 
 </div>
 
